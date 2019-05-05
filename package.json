@@ -1,0 +1,17 @@
+{
+  "name": "sweepjs",
+  "version": "1.0.0",
+  "description": "Minesweeper backed library and CLI implementation frontend.",
+  "main": "sweep-cli.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Jacob Scaggs",
+  "license": "GPL-2.0-only"
+}
